@@ -1,0 +1,11 @@
+F:\Metanit_C#\CarApp\bin\Debug\netcoreapp2.1\CarApp.deps.json
+F:\Metanit_C#\CarApp\bin\Debug\netcoreapp2.1\CarApp.runtimeconfig.json
+F:\Metanit_C#\CarApp\bin\Debug\netcoreapp2.1\CarApp.runtimeconfig.dev.json
+F:\Metanit_C#\CarApp\bin\Debug\netcoreapp2.1\CarApp.dll
+F:\Metanit_C#\CarApp\bin\Debug\netcoreapp2.1\CarApp.pdb
+F:\Metanit_C#\CarApp\obj\Debug\netcoreapp2.1\CarApp.csprojAssemblyReference.cache
+F:\Metanit_C#\CarApp\obj\Debug\netcoreapp2.1\CarApp.csproj.CoreCompileInputs.cache
+F:\Metanit_C#\CarApp\obj\Debug\netcoreapp2.1\CarApp.AssemblyInfoInputs.cache
+F:\Metanit_C#\CarApp\obj\Debug\netcoreapp2.1\CarApp.AssemblyInfo.cs
+F:\Metanit_C#\CarApp\obj\Debug\netcoreapp2.1\CarApp.dll
+F:\Metanit_C#\CarApp\obj\Debug\netcoreapp2.1\CarApp.pdb
